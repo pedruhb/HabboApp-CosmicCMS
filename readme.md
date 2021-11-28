@@ -1,5 +1,6 @@
 # What is?
 Habbo APP is an electron-based app that supports a Cosmic CMS to run a legacy client on your device.
+- If you not use Cosmic CMS, check the [HabboApp](https://github.com/pedruhb/HabboApp) repo.
 
 ## Features
 - Save login data and auto login.
