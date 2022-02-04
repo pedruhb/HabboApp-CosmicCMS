@@ -30,6 +30,7 @@
         "validade_password": "Password is required!",
         "placeholder_username": "Username",
         "placeholder_password": "Password",
+        "placeholder_pincode": "Pincode",
         "snackbar": {
             "api_error": "Error communicating with API.",
             "dimiss": "DIMISS",
